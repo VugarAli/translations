@@ -32,7 +32,7 @@ Locale    Language         As of        Github User        Maintainer
 ========  ===============  ===========  =================  =========================
 ar        Arabic           4.0.0        daif               Daif Alotaibi
 az        Azerbaijani      4.0.0        VugarAli           VugarAli
-de        German           4.0.0        sba                Stefan Bgit auer
+de        German           4.0.0        sba                Stefan Bauer
 en        English          4.0.0        n/a                CI team
 es        Spanish          4.0.0        NandyJoshu         Fernán Castro Asensio?
 fa        Farsi            4.0.0        smhnaji            Mohammad Naji
